@@ -1,8 +1,8 @@
-# ✨ SNEHA PANDEY
+# ✨ Mahima Bhardwaj
 
 ### Technical Writer
 
-📍 **Hyderabad, Telangana** | 📞 +91-8481007646 | 📧 snehapandey846@gmail.com | 💼 [linkedin.com/in/snehapandey846/](https://www.linkedin.com/in/snehapandey846/)
+📍 **Gurugram,Haryana**  | 📧 mahimabhardwajmahimabhardwaj@gmail.com | 💼 [linkedin.com/in/mahimabh2/](https://www.linkedin.com/in/mahimabh2/)
 
 ---
 

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Writer/Editor's Checklist - Sneha Pandey</title>
+    <title>Tech Writer/Editor's Checklist - Mahima Bhardwaj</title>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -166,7 +166,7 @@
 <div class="container">
     <div class="brand-header">
         <h1>Tech Writer/Editor's Checklist</h1>
-        <div class="author">Developed by Sneha Pandey</div>
+        <div class="author">Developed by Mahima Bhardwaj</div>
     </div>
 
     <div class="intro-box">
@@ -557,7 +557,7 @@
     }
 
     function exportJSON() {
-        const data = { author: "Sneha Pandey", rubric: "Tech Writer/Editor's Checklist", results: [] };
+        const data = { author: "Mahima Bhardwaj", rubric: "Tech Writer/Editor's Checklist", results: [] };
         document.querySelectorAll('.review-row').forEach((row, index) => {
             const isYes = row.querySelector('.rb-yes').checked;
             const isNo = row.querySelector('.rb-no').checked;
@@ -579,7 +579,7 @@
         const email = document.getElementById('m3').value;
         const score = document.getElementById('p-text').innerText;
         if (!email) { alert("Please enter the Writer Email."); return; }
-        const body = encodeURIComponent(`Audit complete via Sneha Pandey's Checklist.\nReadiness Score: ${score}`);
+        const body = encodeURIComponent(`Audit complete via Mahima Bhardwaj's Checklist.\nReadiness Score: ${score}`);
         window.location.href = `mailto:${email}?subject=Review Ready&body=${body}`;
     }
 
