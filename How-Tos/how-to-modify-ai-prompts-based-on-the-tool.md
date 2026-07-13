@@ -1013,4 +1013,4 @@ Follow the 8-part structure described at the top of this guide. Each contributed
 
 > **Note:** The "Tone" element is optional and can be embedded within formatting constraints if preferred.
 
-Send me an email at: snehapandey846@gmail.com
+

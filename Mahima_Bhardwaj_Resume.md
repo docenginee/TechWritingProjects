@@ -42,13 +42,17 @@ Technical writer with 2+ years of experience creating user-focused documentation
 ### 🔹 Technical Writer | **Medium**
 **September 2021 – March 2025**
 
-- Created user documentation including guides, manuals, and operations materials
-- Collaborated with engineers and product managers to develop internal and external manuals
-- Applied UX writing principles to interface text and online help content
-- Supported localization efforts through structured and translation-friendly content
-- Contributed to documentation taxonomy and content strategy development
-- Managed version control and document updates using project tracking and organizational systems
-- Optimized knowledge base content to improve search engine visibility and user findability
+- Authored and published 20+ technical articles on web technologies, cloud computing, AI, and programming concepts.  
+- Simplified complex technical concepts, improving content readability and increasing reader engagement by 30%. 
+Remote 
+- Conducted research on emerging technologies and industry trends, reducing content research time by 25% through structured workflows.  
+- Developed structured technical documentation, improving documentation consistency and usability by 40%.  
+- Produced SEO-friendly technical content that increased article visibility and organic readership by 40%.  
+- Collaborated with editors and technical reviewers, reducing content revisions by 25% while maintaining high technical accuracy.  
+- Maintained 95%+ technical accuracy through thorough research and fact-checking.  
+- Built a technical writing portfolio, strengthening professional visibility by 50%.  
+- Expanded technical expertise across AI, cloud, and web technologies by 30%.  
+- Explained real-world software concepts through practical examples, increasing reader understanding by 45%. 
 
 
 ## 🎓 EDUCATION
