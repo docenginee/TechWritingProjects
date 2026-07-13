@@ -17,7 +17,7 @@ Technical writer with 2+ years of experience creating user-focused documentation
 ### 🔹 Technical Writer | **Gudmed, Gurgaon**
 **December 2025 – Present**
 
-- Developed end-to-end product documentation using ArborText and internal tools according to OpenText style and standards
+- Developed end-to-end product documentation using ArborText and internal tools
 - Collaborated with product managers to write, review, and publish release notes and new feature announcements
 - Reviewed documentation and UX/UI text to ensure clarity and consistency with established guidelines
 - Mentored junior writers by providing feedback, organizing training sessions, and supporting professional development
@@ -77,6 +77,6 @@ Technical Writing | User Documentation | Content Creation | UX Writing | Informa
 ## 🏆 ACHIEVEMENTS & RECOGNITION
 
 - 🎯 **30% reduction in documentation creation time** through development of reusable content components and templates
-- 📋 **Established documentation best practices** adopted across teams at OpenText
+- 📋 **Established documentation best practices** adopted across teams at Gudmed
 - 👥 **Mentored multiple  technical writers,** supporting their professional growth and career development
 - 🤖 **Improved documentation efficiency** through strategic use of AI tools and prompt engineering techniques
