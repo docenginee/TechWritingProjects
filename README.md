@@ -6,7 +6,7 @@
 
 Welcome to **Awesome Tech Writing**, a curated, structured framework for anyone starting or transitioning into the world of technical communication.
 
-This repository is built on **8+ years of industry experience** and is designed to transform curiosity into a career. It is a comprehensive blueprint of everything a technical writer needs to know, learn, and master to be successful in the modern tech landscape.
+This repository is built on **2+ years of industry experience** and is designed to transform curiosity into a career. It is a comprehensive blueprint of everything a technical writer needs to know, learn, and master to be successful in the modern tech landscape.
 
 We cut through the noise to focus on **clarity, strategy, and high-impact skills.**
 
