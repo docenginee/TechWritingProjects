@@ -2,7 +2,7 @@
 
 ### Technical Writer
 
-📍 **Gurugram,Haryana**  | 📧 mahimabhardwajmahimabhardwaj@gmail.com | 💼 [linkedin.com/in/mahimabh2/](https://www.linkedin.com/in/mahimabh2/)
+📍 **Gurugram,Haryana**  | 💼 [linkedin.com/in/mahimabh2/](https://www.linkedin.com/in/mahimabh2/)
 
 ---
 
