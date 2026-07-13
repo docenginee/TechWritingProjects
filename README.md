@@ -29,4 +29,4 @@ This list is not just links—it’s a structured journey organized into core le
 
 ## Why My Framework?
 
-My professional journey started with a non-technical background. This experience taught me how to break down the most complex concepts into accessible steps. This repository reflects that learning philosophy: it focuses on **actionable knowledge** and **real-world industry requirements**, not just theory.
+ This experience taught me how to break down the most complex concepts into accessible steps. This repository reflects that learning philosophy: it focuses on **actionable knowledge** and **real-world industry requirements**, not just theory.
